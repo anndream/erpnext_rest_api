@@ -13,7 +13,7 @@
 #### 2.1.1.Get the list of documents of a documents of a particular doctype
 Let us assume that we want to get the list of Item(doctype) in ERPNext
 * Open the command prompt/terminal and navigate to the downloaded erpnext_rest_api folder 
-*`python get_request.py "Item"`
+* `python get_request.py "Item"`
 * Response 
   `{"data":
       [{"name":"Kitchen rack"},
