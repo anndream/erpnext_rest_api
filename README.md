@@ -59,7 +59,7 @@ Let us assume that we want to create new address in ERPNext
      }
    }`
 * By this you created new address in your ERPNext
-* To create new element, open `post_to_doc.py` in any editor and declare data as a dictionary like above and modified as you want
+* To create new element, open `post_to_doc.py` in any editor and declare data as a dictionary like above and modify as you want
 * Make sure to include mandatory fields in data
 
 
