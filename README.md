@@ -39,7 +39,7 @@ Let us assume that we want to get the information of an `Item` `Plywood` in ERPN
 
 ### 2.2. Post
 #### 2.2.1. Create new element in a document
-Let us assume that we want to create new address in ERPNext
+Let us assume that we want to create new `address` in ERPNext
 * In command prompt/terminal and navigate to the downloaded erpnext_rest_api folder
 * `>python post_to_doc.py `
 * Response 
